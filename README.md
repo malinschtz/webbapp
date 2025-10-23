@@ -1,5 +1,5 @@
 # webbapp
 App für Full Stack Web Developement
 
-Fragen:
-venv/ Ordner
+Fragen: 
+venv/ ordner??
